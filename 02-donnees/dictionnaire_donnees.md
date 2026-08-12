@@ -3,7 +3,7 @@
 Source publique : `candidatures_anonymisees.csv`  
 Date de generation : 2026-08-12  
 Nombre de lignes : 33  
-Separateur CSV : `;`
+Separateur CSV : `,`
 
 ## Colonnes
 
