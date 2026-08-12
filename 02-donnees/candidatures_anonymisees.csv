@@ -1,34 +1,34 @@
-id_candidature;poste;secteur;statut;type_contrat;canal_principal;canaux_secondaires;score_adequation;priorite;favori;echeance_action;tags_metier
-CAND-001;Alternance Data Analyst and Transformation Associate;Banque;Backlog;Non renseigne;Non renseigne;;;Medium;1;;
-CAND-002;Business Analyst;Transport;Refus;Non renseigne;Non renseigne;;;Medium;0;;
-CAND-003;BA/MOA PARTS & Fit&Proper;Banque;Refus;Non renseigne;Non renseigne;;;Medium;0;;
-CAND-004;Incident Change Manager;Banque;Candidature envoyee;Alternance;LinkedIn;Site carriere;;Medium;0;2026-08-25;
-CAND-005;MOA perimetre applicatif;Assurance;Backlog;Alternance;Site carriere;;;Medium;1;2026-08-16;
-CAND-006;MOA/Chef de Projet SI;Immobilier;Refus;Non renseigne;Non renseigne;;;Medium;0;;
-CAND-007;Chef de Projet SI Proximite IDF;Distribution;Backlog;Alternance;Site carriere;;;Medium;0;2026-08-16;
-CAND-008;Apprenti Transformation Digitale;Distribution;Refus;Alternance;LinkedIn;;;Medium;0;;
-CAND-009;Apprenti Chef de Projet/Pilotage SI;Defense;Refus;Non renseigne;Non renseigne;;;Medium;0;;
-CAND-010;Assistant Chef de Projet IT;Assurance;Candidature envoyee;Stage;LinkedIn;;;Medium;0;2026-09-03;
-CAND-011;Consultant en Banque;Banque;Backlog;Stage;LinkedIn InMail;Mail direct;74;Medium;1;2026-08-16;Conseil / ESN
-CAND-012;MOA SI Immobilier;Immobilier;Candidature envoyee;Alternance;Site carriere;;;Medium;0;2026-09-03;
-CAND-013;Gouvernance et Pilotage du Programme de Transformation SI;Luxe;Candidature envoyee;Stage;ATS;Site carriere;80;High;0;2026-09-03;
-CAND-014;Master Systeme d’Information;Assurance;Refus;Alternance;Site carriere;;82;High;0;;
-CAND-015;Apprenti Business Analyst Telephonie;Assurance;Candidature envoyee;Alternance;Site carriere;;74;Medium;0;2026-09-03;
-CAND-016;Charge de Pilotage & Performance;Assurance;Candidature envoyee;Alternance;Site carriere;;78;Medium;0;2026-09-03;
-CAND-017;Consultant en Banque;Banque;Refus;Alternance;ATS;;;Medium;0;;Conseil / ESN
-CAND-018;Business Analyst;Assurance;Candidature envoyee;Alternance;Site carriere;;84;High;0;2026-09-03;
-CAND-019;Business Analyst Junior;Assurance;Candidature envoyee;Stage;Mail direct;;61;Low;0;2026-09-03;
-CAND-020;Consultant Transformation Digitale;Immobilier;Refus;Alternance;LinkedIn;;;Medium;0;;Conseil / ESN
-CAND-021;Assistant Product Owner E-commerce;Distribution;Candidature envoyee;Alternance;LinkedIn;;72;Medium;0;2026-09-03;
-CAND-022;Stage Data/SI (spontanee);Finance;Candidature envoyee;Stage;Mail direct;;60;Low;0;2026-09-03;Candidature spontanee
-CAND-023;Stagiaire Transformation Digitale & M365;Banque;Candidature envoyee;Stage;Site carriere;;81;High;0;2026-09-03;
-CAND-024;Assistant Chef de projet IT (Marketing);Distribution;Backlog;Alternance;LinkedIn;Site carriere;84;High;1;2026-08-16;
-CAND-025;Stagiaire Charge de la Transformation Numerique;Sante;Backlog;Stage;Site carriere;;71;Medium;0;2026-08-16;
-CAND-026;Assistant Controle Interne et Conformite;Transport;Backlog;Non renseigne;Non renseigne;;;Medium;0;;
-CAND-027;Alternant Business Analyst MOA et Testing SI;Banque;Backlog;Non renseigne;Non renseigne;;;Medium;0;;
-CAND-028;Consultant IT Apprentice;Industrie / BTP;Refus;Alternance;Appel direct;;;Medium;0;2026-08-16;Conseil / ESN
-CAND-029;Charge de projet MOA Comptable-Reporting reglementaire;Assurance;Candidature envoyee;Alternance;Site carriere;;79;Medium;0;2026-09-03;
-CAND-030;Business Analyst Assurance;Assurance;Refus;Alternance;Site carriere;;79;Medium;0;;Conseil / ESN
-CAND-031;Alternant Business Analyst Finance ERP;Finance;Backlog;Alternance;Site carriere;;70;Medium;0;2026-08-16;
-CAND-032;Apprenti Chef de projet SI Metier;Industrie / BTP;Candidature envoyee;Alternance;LinkedIn;;78;Medium;0;2026-09-03;
-CAND-033;Stagiaire Chef de Projet Transformation;Medias / Edition;Backlog;Stage;Mail direct;;86;High;1;2026-08-31;
+id_candidature,poste,secteur,statut,type_contrat,canal_principal,canaux_secondaires,score_adequation,priorite,favori,echeance_action,tags_metier
+CAND-001,Alternance Data Analyst and Transformation Associate,Banque,Backlog,Non renseigne,Non renseigne,,,Medium,1,,
+CAND-002,Business Analyst,Transport,Refus,Non renseigne,Non renseigne,,,Medium,0,,
+CAND-003,BA/MOA PARTS & Fit&Proper,Banque,Refus,Non renseigne,Non renseigne,,,Medium,0,,
+CAND-004,Incident Change Manager,Banque,Candidature envoyee,Alternance,LinkedIn,Site carriere,,Medium,0,2026-08-25,
+CAND-005,MOA perimetre applicatif,Assurance,Backlog,Alternance,Site carriere,,,Medium,1,2026-08-16,
+CAND-006,MOA/Chef de Projet SI,Immobilier,Refus,Non renseigne,Non renseigne,,,Medium,0,,
+CAND-007,Chef de Projet SI Proximite IDF,Distribution,Backlog,Alternance,Site carriere,,,Medium,0,2026-08-16,
+CAND-008,Apprenti Transformation Digitale,Distribution,Refus,Alternance,LinkedIn,,,Medium,0,,
+CAND-009,Apprenti Chef de Projet/Pilotage SI,Defense,Refus,Non renseigne,Non renseigne,,,Medium,0,,
+CAND-010,Assistant Chef de Projet IT,Assurance,Candidature envoyee,Stage,LinkedIn,,,Medium,0,2026-09-03,
+CAND-011,Consultant en Banque,Banque,Backlog,Stage,LinkedIn InMail,Mail direct,74,Medium,1,2026-08-16,Conseil / ESN
+CAND-012,MOA SI Immobilier,Immobilier,Candidature envoyee,Alternance,Site carriere,,,Medium,0,2026-09-03,
+CAND-013,Gouvernance et Pilotage du Programme de Transformation SI,Luxe,Candidature envoyee,Stage,ATS,Site carriere,80,High,0,2026-09-03,
+CAND-014,Master Systeme d’Information,Assurance,Refus,Alternance,Site carriere,,82,High,0,,
+CAND-015,Apprenti Business Analyst Telephonie,Assurance,Candidature envoyee,Alternance,Site carriere,,74,Medium,0,2026-09-03,
+CAND-016,Charge de Pilotage & Performance,Assurance,Candidature envoyee,Alternance,Site carriere,,78,Medium,0,2026-09-03,
+CAND-017,Consultant en Banque,Banque,Refus,Alternance,ATS,,,Medium,0,,Conseil / ESN
+CAND-018,Business Analyst,Assurance,Candidature envoyee,Alternance,Site carriere,,84,High,0,2026-09-03,
+CAND-019,Business Analyst Junior,Assurance,Candidature envoyee,Stage,Mail direct,,61,Low,0,2026-09-03,
+CAND-020,Consultant Transformation Digitale,Immobilier,Refus,Alternance,LinkedIn,,,Medium,0,,Conseil / ESN
+CAND-021,Assistant Product Owner E-commerce,Distribution,Candidature envoyee,Alternance,LinkedIn,,72,Medium,0,2026-09-03,
+CAND-022,Stage Data/SI (spontanee),Finance,Candidature envoyee,Stage,Mail direct,,60,Low,0,2026-09-03,Candidature spontanee
+CAND-023,Stagiaire Transformation Digitale & M365,Banque,Candidature envoyee,Stage,Site carriere,,81,High,0,2026-09-03,
+CAND-024,Assistant Chef de projet IT (Marketing),Distribution,Backlog,Alternance,LinkedIn,Site carriere,84,High,1,2026-08-16,
+CAND-025,Stagiaire Charge de la Transformation Numerique,Sante,Backlog,Stage,Site carriere,,71,Medium,0,2026-08-16,
+CAND-026,Assistant Controle Interne et Conformite,Transport,Backlog,Non renseigne,Non renseigne,,,Medium,0,,
+CAND-027,Alternant Business Analyst MOA et Testing SI,Banque,Backlog,Non renseigne,Non renseigne,,,Medium,0,,
+CAND-028,Consultant IT Apprentice,Industrie / BTP,Refus,Alternance,Appel direct,,,Medium,0,2026-08-16,Conseil / ESN
+CAND-029,Charge de projet MOA Comptable-Reporting reglementaire,Assurance,Candidature envoyee,Alternance,Site carriere,,79,Medium,0,2026-09-03,
+CAND-030,Business Analyst Assurance,Assurance,Refus,Alternance,Site carriere,,79,Medium,0,,Conseil / ESN
+CAND-031,Alternant Business Analyst Finance ERP,Finance,Backlog,Alternance,Site carriere,,70,Medium,0,2026-08-16,
+CAND-032,Apprenti Chef de projet SI Metier,Industrie / BTP,Candidature envoyee,Alternance,LinkedIn,,78,Medium,0,2026-09-03,
+CAND-033,Stagiaire Chef de Projet Transformation,Medias / Edition,Backlog,Stage,Mail direct,,86,High,1,2026-08-31,
