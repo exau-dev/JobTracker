@@ -35,7 +35,7 @@ Les donnees publiees dans ce depot sont anonymisees et simplifiees a partir du s
 
 ## Dataset publie
 
-Le fichier `02-donnees/candidatures_anonymisees.csv` contient 33 lignes de candidatures anonymisees. Le separateur CSV est le point-virgule afin de faciliter l'ouverture dans Excel et Power BI en configuration francaise.
+Le fichier `02-donnees/candidatures_anonymisees.csv` contient 33 lignes de candidatures anonymisees. Le fichier utilise un separateur virgule afin d'etre lisible directement dans GitHub et facilement importable dans Power BI.
 
 Principes retenus :
 
