@@ -20,5 +20,5 @@ CREATE TABLE candidatures (
 
 -- Exemple d'import avec sqlite3 en ligne de commande :
 -- .mode csv
--- .separator ;
+-- .separator ,
 -- .import --skip 1 02-donnees/candidatures_anonymisees.csv candidatures
